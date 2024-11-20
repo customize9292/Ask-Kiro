@@ -61,7 +61,7 @@ There are mainly 2 ways of installing Perplexica - With Docker, Without Docker. 
 2. Clone the Perplexica repository:
 
    ```bash
-   git clone https://github.com/ItzCrazyKns/Perplexica.git
+   git clone https://github.com/customize9292/Ask-Kiro.git
    ```
 
 3. After cloning, navigate to the directory containing the project files.
